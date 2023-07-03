@@ -1,0 +1,37 @@
+given number is even or odd
+
+
+
+n=int(input("enter an integer number:"))
+
+if(n% 2==0):
+
+    print(n," is a even number")
+
+else:
+
+    print(n," is a odd number")
+
+
+
+
+
+--------------------------------------------------
+
+a=35
+
+b=83
+
+c=32
+
+if(a>b and a>c):
+
+    print(a,"is a greatest number")
+
+elif(b>c):
+
+    print(b,"is a greatest number")
+
+else:
+
+    print(c,"is a greatest number")
