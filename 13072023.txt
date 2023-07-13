@@ -1,0 +1,32 @@
+
+REVERSE NUMBER
+/////////////////////////////
+
+
+n=input("enter a number:")
+
+print(n[::-1])
+
+
+
+
+
+
+
+
+POLLINDROM
+////////////////////////////
+
+
+
+n=input("enter a number:")
+
+print(n[::-1])
+
+if(n[::]==n[::-1]):
+
+    print("pollindrom")
+
+else:
+
+    print("not a pollindrom")
