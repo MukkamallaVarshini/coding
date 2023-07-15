@@ -1,0 +1,22 @@
+
+print table
+///////////////////////////////////
+
+
+
+
+n=int(input("enter a number:"))
+
+for i in range(1,11):
+
+    print(n,"*",i,"=",n*i)
+
+
+
+
+
+
+
+n="varsha"
+
+print(n[:2])
